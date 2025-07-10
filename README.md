@@ -15,13 +15,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&theme=tokyonight" width="400"/>
 </p>
 
----
+<a href="https://www.linkedin.com/in/rheza-rifalsya-312125341/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/imZaaa/imZaaa/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Let's Connect
 
