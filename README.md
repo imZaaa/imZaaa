@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRieDMxM3dudThlNWtqY3Q5ZnJvbWNpMmFlNXdxemUwZjR3emczeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Rheza 👋</h1>
 
