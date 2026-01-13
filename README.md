@@ -8,6 +8,7 @@
 
 ---
 
+### 📝 Profil Profesional
 Saya adalah seorang mahasiswa **Teknologi Informasi** yang berfokus pada pengembangan solusi perangkat lunak yang efisien dan skalabel. Memiliki minat mendalam dalam membangun aplikasi berbasis **Web** dan **Mobile** dengan mengintegrasikan fungsionalitas yang kompleks serta antarmuka yang intuitif.
 
 - 🔭 **Proyek Saat Ini:** Mengembangkan Sistem Manajemen Kehadiran dan Penggajian (Payroll System).
@@ -28,12 +29,13 @@ Saya adalah seorang mahasiswa **Teknologi Informasi** yang berfokus pada pengemb
 
 ### 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imZaaa&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Statistik GitHub Rheza" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&theme=tokyonight" width="48%" alt="Streak GitHub Rheza" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imZaaa&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" alt="Statistik GitHub Rheza" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&theme=tokyonight&cache_seconds=1800" width="48%" alt="Streak GitHub Rheza" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imZaaa&layout=compact&theme=tokyonight" width="400px" alt="Bahasa Pemrograman Teratas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imZaaa&layout=compact&theme=tokyonight&cache_seconds=1800" width="400px" alt="Bahasa Pemrograman Teratas" />
 </p>
 
 ---
