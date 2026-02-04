@@ -1,19 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=220&section=header&text=Rheza%20Rifalsya&fontSize=65&animation=fadeIn&fontColor=000000&desc=Software%20Engineer%20Enthusiast&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Rheza%20Rifalsya&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
 </p>
-
----
-
-<h2 align="center">⚫ About Me</h2>
 
 <p align="center">
-Turning ideas into structured, scalable, and meaningful software.  
-Focused on full-stack development, mobile applications, and continuous learning.
+  <i>Building software with logic, structure, and purpose.</i>
 </p>
 
 ---
 
-<h2 align="center">⚪ Tech Stack</h2>
+## ⚫ About
+
+Passionate developer focused on building scalable digital products.  
+Interested in full-stack web development and mobile application engineering while continuously improving problem-solving and system design skills.
+
+---
+
+## ⚪ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,codeigniter,js,react,nextjs,tailwind,mysql,supabase,expo,figma,git,github,vscode&theme=light&perline=6" />
@@ -21,7 +23,37 @@ Focused on full-stack development, mobile applications, and continuous learning.
 
 ---
 
-<h2 align="center">⚫ Connect</h2>
+## ⚫ Currently Exploring
+
+- Scalable Full Stack Architecture  
+- Mobile Development Ecosystem  
+- UI/UX System Design  
+- API Integration & Optimization  
+
+---
+
+## ⚪ GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imZaaa&show_icons=true&hide_border=true&theme=default&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&theme=default&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imZaaa&layout=compact&hide_border=true&theme=default" width="35%" />
+</p>
+
+---
+
+## ⚫ Contribution Map
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imZaaa&theme=default" />
+</p>
+
+---
+
+## ⚪ Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rheza-rifalsya-312125341/">
@@ -34,41 +66,13 @@ Focused on full-stack development, mobile applications, and continuous learning.
 
 ---
 
-<h2 align="center">⚪ GitHub Analytics</h2>
+## ⚫ Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imZaaa&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&theme=default&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imZaaa&layout=compact&theme=default&hide_border=true" width="35%" />
-</p>
-
----
-
-<h2 align="center">⚫ Contribution Overview</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imZaaa&theme=default" width="100%" />
-</p>
-
----
-
-<h2 align="center">⚪ Developer Philosophy</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</p>
+> Simplicity is not about removing complexity.  
+> It is about mastering it.
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imZaaa&color=000000&style=flat-square&label=Profile+Views" />
-</p>
-
----
-
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
 </p>
