@@ -35,13 +35,15 @@ Interested in full-stack web development and mobile application engineering whil
 ## ⚪ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imZaaa&show_icons=true&hide_border=true&theme=default&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imZaaa&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="48%" />
+  
+  <img src="https://streak-stats.demolab.com?user=imZaaa&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imZaaa&layout=compact&hide_border=true&theme=default" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imZaaa&layout=compact&hide_border=true&theme=github_dark" width="35%" />
 </p>
+
 
 ---
 
