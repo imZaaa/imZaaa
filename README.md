@@ -64,7 +64,7 @@ focus:
 
 <p align="center">
   <img src="https://github-readme-stats-lake-two-92.vercel.app/api?username=imZaaa&show_icons=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" width="48%" />
-  <img src="[https://github-readme-streak-stats.vercel.app/?user=imZaaa&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=C4B5FD&border=4C1D95&stroke=4C1D95](https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=C4B5FD&border=4C1D95&stroke=4C1D95)" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imZaaa&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=C4B5FD&border=4C1D95&stroke=4C1D95" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-lake-two-92.vercel.app/api/top-langs/?username=imZaaa&layout=compact&hide_border=true&cache_seconds=1800&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0221" width="40%" />
