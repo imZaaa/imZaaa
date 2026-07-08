@@ -75,7 +75,7 @@ focus:
 ## ⚫ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imZaaa&theme=onedark&no-bg=true&no-frame=true&margin-w=10&force_new_cache=berhasil" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imZaaa&theme=onedark&no-bg=true&no-frame=true&margin-w=10&row=1&column=7" />
 </p>
 
 ---
