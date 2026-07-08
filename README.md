@@ -43,7 +43,7 @@ Full-stack developer who likes taking a product from database schema to polished
 <p align="center"><img src="https://skillicons.dev/icons?i=codeigniter,mysql,supabase&theme=dark" /></p>
 
 **Tools & Platforms**
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,antigravity&theme=dark" /></p>
 
 ---
 
