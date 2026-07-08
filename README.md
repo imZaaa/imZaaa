@@ -63,7 +63,7 @@ focus:
 ## ⚪ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imZaaa&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0221" width="48%" />
+  <img src="github-readme-stats-lake-two-92.vercel.app" width="48%" />
   <img src="https://streak-stats.demolab.com?user=imZaaa&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=A78BFA&dates=C4B5FD&border=4C1D95&stroke=4C1D95" width="48%" />
 </p>
 <p align="center">
